@@ -1,47 +1,62 @@
-# AI & Web Development Projects
+# AI & Web Development Portfolio
 
-Welcome to my project repository.
+Hi, I'm Malo.
 
-I am currently learning Python, web development, and AI-assisted software engineering using Claude and Claude Code.
+I'm currently learning Python, web development, and AI-assisted software engineering with Claude and Claude Code.
 
-My focus is on building practical solutions for local businesses, improving their digital presence, and experimenting with AI-powered tools.
+My goal is to build practical digital solutions for businesses, creators, and entrepreneurs while documenting my learning journey.
 
-Current areas of interest:
+## What I'm Building
 
-* Website development for small businesses
-* Python automation
-* AI-assisted coding workflows
-* Content creation around AI tools
-* Open-source contributions
+I use Claude Code to:
 
-* ## Featured Projects
+* Build websites and web applications
+* Learn Python and software engineering
+* Experiment with AI-assisted development workflows
+* Improve productivity and automation
+* Document and share what I learn
 
-### Barbershop Website
+## Featured Projects
 
-Responsive website designed for a local barbershop business.
+### WM Marseille Barbershop
+
+A responsive website built for a barbershop business.
+
+GitHub Repository:
+https://github.com/kingsnelma-ui/barbershop-wm
 
 Live Demo:
 https://barbershop-wm-marseille.netlify.app/
 
-### Concept Store Website
+### Le Studio Concept Store
 
-Modern website created for a concept store brand.
+A modern concept store website built using HTML, CSS, JavaScript, and Claude-assisted development.
 
 Live Demo:
 https://lestudio-conceptstore.netlify.app/
 
-### Hotel Landing Page
+### Novotel Landing Page
 
-Hotel-inspired landing page built to practice modern web design and development.
+A hotel-inspired landing page focused on modern UI and user experience.
 
 Live Demo:
 https://projet-novotel.netlify.app/
 
+## Current Learning Focus
 
-Upcoming projects:
+* Python
+* JavaScript
+* HTML & CSS
+* AI-assisted development
+* Claude Code workflows
 
-* Business website templates
-* AI-assisted productivity tools
-* Developer workflow experiments with Claude Code
+## Future Projects
 
-This repository will document my learning journey and future projects.
+* AI-powered productivity tools
+* Business automation solutions
+* Creative tools for content creators
+* Open-source experiments
+
+## Why This Repository Exists
+
+This repository serves as a central portfolio documenting my projects, experiments, and progress as I continue building with AI and Claude Code.
