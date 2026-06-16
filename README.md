@@ -46,15 +46,16 @@ https://projet-novotel.netlify.app/
 
 ### WM Marseille Barbershop
 
-![WM Marseille Barbershop](barbershop.png)
+<img width="674" height="445" alt="barbershop" src="https://github.com/user-attachments/assets/18378ec6-1a40-4946-a236-bebd28eb4800" />
 
 ### Le Studio Concept Store
 
-![Le Studio Concept Store](concept-store.png)
+<img width="427" height="437" alt="concept-store" src="https://github.com/user-attachments/assets/bb4f9b02-b0dd-4a41-b1f9-2ad5e6a3c964" />
+
 
 ### Novotel Landing Page
 
-![Novotel Landing Page](novotel.png)
+<img width="949" height="438" alt="novotel" src="https://github.com/user-attachments/assets/3cd62ce5-8c53-4e7c-9dc2-f1c64c0c8724" />
 
 
 ## Current Learning Focus
