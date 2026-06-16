@@ -14,6 +14,30 @@ Current areas of interest:
 * Content creation around AI tools
 * Open-source contributions
 
+* ## Featured Projects
+
+### Barbershop Website
+
+Responsive website designed for a local barbershop business.
+
+Live Demo:
+https://barbershop-wm-marseille.netlify.app/
+
+### Concept Store Website
+
+Modern website created for a concept store brand.
+
+Live Demo:
+https://lestudio-conceptstore.netlify.app/
+
+### Hotel Landing Page
+
+Hotel-inspired landing page built to practice modern web design and development.
+
+Live Demo:
+https://projet-novotel.netlify.app/
+
+
 Upcoming projects:
 
 * Business website templates
