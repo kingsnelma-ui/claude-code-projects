@@ -46,15 +46,15 @@ https://projet-novotel.netlify.app/
 
 ### WM Marseille Barbershop
 
-![WM Marseille Barbershop](barbershop.jpg)
+![WM Marseille Barbershop](barbershop.png)
 
 ### Le Studio Concept Store
 
-![Le Studio Concept Store](concept-store.jpg)
+![Le Studio Concept Store](concept-store.png)
 
 ### Novotel Landing Page
 
-![Novotel Landing Page](novotel.jpg)
+![Novotel Landing Page](novotel.png)
 
 
 ## Current Learning Focus
