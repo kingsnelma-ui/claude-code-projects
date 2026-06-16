@@ -42,6 +42,21 @@ A hotel-inspired landing page focused on modern UI and user experience.
 Live Demo:
 https://projet-novotel.netlify.app/
 
+## Project Preview
+
+### WM Marseille Barbershop
+
+![WM Marseille Barbershop](barbershop.jpg)
+
+### Le Studio Concept Store
+
+![Le Studio Concept Store](concept-store.jpg)
+
+### Novotel Landing Page
+
+![Novotel Landing Page](novotel.jpg)
+
+
 ## Current Learning Focus
 
 * Python
